@@ -1,2 +1,4 @@
 # First Markup in GitHub
-Don't climb mountains for the world to see you, but for you to see the world.
+"Don't climb mountains for the world to see you, but for you to see the world."
+
+![image of a Mountain CLimber](https://graphicsfactory.com/clip-art/image_files/image/0/1771670-mountain-climber-vector-clipart.jpg)
